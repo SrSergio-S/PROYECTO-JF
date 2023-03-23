@@ -9,9 +9,9 @@
                             <div class="btn-group me-2" role="group">
                                 <a href="?control=home&&funcion=precios" role="button"
                                     class="btn btn-outline-light">1</a>
-                                <a href="?control=home&&funcion=precios" role="button"
+                                <a href="?control=home&&funcion=precios2" role="button"
                                     class="btn btn-outline-light">2</a>
-                                <a href="?control=home&&funcion=precios" role="button"
+                                <a href="?control=home&&funcion=precios3" role="button"
                                     class="btn btn-outline-light">3</a>
                             </div>
                         </div>

@@ -31,5 +31,4 @@
         $control->{$funcion}();
 
     };//FIN LLAMADO
-?>  
-?>
+?> 

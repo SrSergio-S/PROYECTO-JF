@@ -1,25 +1,4 @@
 <main>
-    <div class="aside_info">
-        <h3 class="titulos">Historia</h3>
-        <h4>Nuestra empresa fue creada en el año 2019 con mi esposo y yo decidimos crear esta empresa porque queriamos
-            independizarnos y estuvimos de acuerdo en que nuestra empresa seria de ferreteria y somos una empresa
-            nacional que
-            poco a poco va creciendo
-        </h4>
-        <h3 class="titulos">Direccion</h3>
-        <h4>¿Donde puedes encontrarnos?</h4> <br>
-        <h4>Nos puedes ubicar en la cra 55#5a-70 Bogota-Colombia</h4>
-        <a href="https://www.google.com/maps/place/Cra.+55+%235a-70,+Bogot%C3%A1/@4.6244075,-74.1171655,17z/data=!4m5!3m4!1s0x8e3f99571dde3389:0x47ba48ee8bd2fb54!8m2!3d4.6244022!4d-74.1149768"
-            target="_blank" class="btn btn-outline-info" role="button">
-            Ver dirección
-        </a>
-        <h3 class="titulos">Contactanos</h3>
-        <h4>Nos puedes contactar por los siguientes medios <br> Whatsapp <br> <a href="tel:+573502165830"
-                class="text-success">+57 3502165830</a>
-            <h3 class="titulos"> Correo <h3> <a href="mailto:j.ohanaochoa@hotmail.com"
-                        class="text-danger fs-5">j.ohanaochoa@hotmail.com</a>
-        </h4>
-    </div>
     <div class="prin">
         <div class="card mb-3" style="max-width: 90%;">
             <div class="row g-0">
@@ -143,5 +122,24 @@
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
+    </div>
+    <div class="aside_info">
+        <h3 class="titulos">Historia</h3>
+        <h4 class="txt_info">Nuestra empresa fue creada en el año 2019 con mi esposo y yo decidimos crear esta empresa porque queriamos
+            independizarnos y estuvimos de acuerdo en que nuestra empresa seria de ferreteria y somos una empresa
+            nacional que
+            poco a poco va creciendo
+        </h4>
+        <h3 class="titulos">Direccion</h3>
+        <h4 class="txt_info">¿Donde puedes encontrarnos?</h4> <br>
+        <h4 class="txt_info">Nos puedes ubicar en la cra 55#5a-70 Bogota-Colombia</h4>
+        <a href="https://www.google.com/maps/place/Cra.+55+%235a-70,+Bogot%C3%A1/@4.6244075,-74.1171655,17z/data=!4m5!3m4!1s0x8e3f99571dde3389:0x47ba48ee8bd2fb54!8m2!3d4.6244022!4d-74.1149768"
+            target="_blank" class="btn btn-outline-info" role="button">
+            Ver dirección
+        </a>
+        <h3 class="titulos">Contactanos</h3>
+        <h4 class="txt_info">Nos puedes contactar por los siguientes medios <br> Whatsapp <br> <a href="tel:+573502165830" class="text-success">+57 3502165830</a>
+            <h3 class="titulos"> Correo <h3> <a href="mailto:j.ohanaochoa@hotmail.com" class="text-danger fs-5">j.ohanaochoa@hotmail.com</a>
+        </h4>
     </div>
 </main>

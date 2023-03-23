@@ -1,7 +1,7 @@
 <nav>
     <nav class="navbar navbar-expand-lg bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" aria-current="page" href="?nave=XD">
+            <a class="navbar-brand txt_info" aria-current="page" href="?nave=XD">
                 Home
                 <svg xmlns="http://www.w3.org/2000/svg" width="22" fill="currentColor" class="bi bi-house"
                     viewBox="0 0 16 16">
@@ -11,10 +11,6 @@
                         d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z" />
                 </svg>
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
